@@ -39,24 +39,40 @@ Full stack developer specializing in Online Reputation Management (ORM) infrastr
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabbani76&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbani76&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rabbani76&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rabbani76&show_icons=true&theme=default&hide_title=true&hide_border=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rabbani76&show_icons=true&theme=default&hide_title=true&hide_border=true&count_private=true" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbani76&layout=compact&theme=tokyonight&hide_border=true&hide_title=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbani76&layout=compact&theme=default&hide_border=true&hide_title=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbani76&layout=compact&theme=default&hide_border=true&hide_title=true" height="165"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbani76&theme=tokyonight&hide_border=true" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rabbani76&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rabbani76&theme=default&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabbani76&theme=default&hide_border=true" height="165"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbani76&theme=tokyo-night&hide_border=true" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rabbani76&theme=tokyo-night&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rabbani76&theme=minimal&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabbani76&theme=minimal&hide_border=true" width="95%"/>
+  </picture>
 </p>
 
 ### Contact
 
 [![Website](https://img.shields.io/badge/Website-monetizereviews.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://monetizereviews.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rabbanik586@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekbal-hossain-a7a031266)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 
 <br>
 
-<img src="https://profile-counter.glitch.me/rabbani76/count.svg" alt="visitor count"/>
+<img src="https://komarev.com/ghpvc/?username=rabbani76&style=flat-square&color=blue" alt="visitor count"/>
