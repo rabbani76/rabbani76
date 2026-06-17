@@ -54,8 +54,8 @@ Full stack developer specializing in Online Reputation Management (ORM) infrastr
 ### Contact
 
 [![Website](https://img.shields.io/badge/Website-monetizereviews.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://monetizereviews.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rabbanik586@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekbal-hossain-a7a031266)
 
 <br>
 
